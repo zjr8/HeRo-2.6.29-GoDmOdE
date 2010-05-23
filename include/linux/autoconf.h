@@ -1,7 +1,7 @@
 /*
  * Automatically generated C config: don't edit
  * Linux kernel version: 2.6.29
- * Sat May 22 20:02:29 2010
+ * Sun May 23 15:12:51 2010
  */
 #define AUTOCONF_INCLUDED
 #define CONFIG_VIDEO_V4L1_COMPAT 1
@@ -398,7 +398,7 @@
 #define CONFIG_TICK_ONESHOT 1
 #define CONFIG_PROFILING 1
 #define CONFIG_IP_NF_MATCH_TTL 1
-#define CONFIG_MSM_CPU_FREQ_ONDEMAND_MAX 710400
+#define CONFIG_MSM_CPU_FREQ_ONDEMAND_MAX 528000
 #define CONFIG_ANDROID_LOW_MEMORY_KILLER 1
 #define CONFIG_NETFILTER_XT_TARGET_TRACE 1
 #define CONFIG_CPU_32 1
